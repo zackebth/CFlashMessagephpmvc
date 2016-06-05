@@ -55,7 +55,7 @@ class FlashDirect
         if ($msg != null) {
             $this->msg = $msg;
         } else {
-            $this->msg = "Alert!";
+            $this->msg = "Alert, something isn't right!";
         }
             return $this->msg;
     }
@@ -68,7 +68,7 @@ class FlashDirect
         if ($msg != null) {
             $this->msg = $msg;
         } else {
-            $this->msg = "WARNING";
+            $this->msg = "WARNING, something isn't right!";
         }
         return $this->msg;
     }
