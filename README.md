@@ -7,23 +7,24 @@ _____
 
 
 
-# How to use this class
+# How to take part of this class and use it.
 Download the class using composer or as zip from GitHub. Move the Flash catalouge inside src to app/src in Anax-mvc.
 The root should be app/src/Flash/FlashDirect.php.
 
-Flash got a few importent functions.
+##Flash got a few importent functions that you need to know of and learn what they are.
 
-## showFlash()
-This is the acutally function that shows the flash, it got a standard message of success.
+* showFlash()
+Info: Here is the function that shows the flash, standard flash is (Success).
 
-## succes($msg), warning($msg) & alert($msg)
-These are the functions that decide how the message should be displayed. All got a parameter $msg, here you should write you message that you want to display.
+* succes($msg), warning($msg) & alert($msg)
+Info: Here is the function that decides how the message will/should be displayed. All of them got a parameter called $msg, in that parameter you can write your message that you want to dispaly/show.
 
-## redirectTo($loc)
-If you want to redirect to another location instead of just refresh the page, just write the location as a parameter in this function. Ex /subpage.php
+* redirectTo($loc)
+Info: With this function you can redrict to another location, you use this to instead of refreshing the page. You can write the location i the parameter for this function.
 
-## setTime($time)
-Sets the time the message will be displayed, paramter in milliseconds, 1500 = 1,5 seconds.
 
-### Order
-ShowFlash() should be written after all the other functions, the order doesent matther for the rest.
+* setTime($time)
+Info: This function will set the time when the message will be displayed, the pramamter use milliseconds, so for an example 1500 = 1,5 seconds.
+
+* Order
+info: This function need to be written after all the oter functions that you take use of, its only for this function you need to think of the order, the rest does not matter.
