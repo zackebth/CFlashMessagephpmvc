@@ -1,7 +1,7 @@
 # CFlash
 A simple flash module for ANAX-mvc
 _____
-Badges [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/badges/build.png?b=master)](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/badges/build.png?b=master)](https://scrutinizer-ci.com/g/zackebth/CFlashMessagephpmvc/build-status/master)
 _____
 
 
